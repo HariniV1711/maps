@@ -18,7 +18,7 @@ const userModel= require("../models/userModel");
 //         console.log(e.message);
 //         // res.status(500).send('Error occur in inserting a user');
 //     }
-// })
+// })fdfgd
 
 router.get("/getUser",async(req,res)=>{
     //  const name = req.params.golfCourseName;
